@@ -3,15 +3,19 @@
 
 | ![박패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김패캠](https://avatars.githubusercontent.com/u/156163982?v=4) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-|            [박패캠](https://github.com/UpstageAILab)             |            [이패캠](https://github.com/UpstageAILab)             |            [최패캠](https://github.com/UpstageAILab)             |            [김패캠](https://github.com/UpstageAILab)             |
-|                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
+|            [김시진](https://github.com/kimsijin33)             |            [임예슬](https://github.com/joy007fun)             |            [김상윤](https://github.com/94KSY)             |            [장윤정](https://github.com/yjjang06)             |
+|                            IR 성능개선<br>프롬프트 엔지니어링                             |                            회의 진행<br>코드 개선                             |                            프롬프트 엔지니어링                             |                            프롬프트 엔지니어링                             |
 
 ## 0. Overview
 ### Environment
 - Python 3.10+
 
 ### Requirements
-- _Write Requirements_
+```
+sentence_transformers==2.2.2
+elasticsearch==8.8.0
+openai==1.7.2
+```
 
 ## 1. Competiton Info
 
@@ -21,8 +25,8 @@
 
 ### Timeline
 
-- ex) November 14, 2025 - Start Date
-- ex) November 27, 2025 - Final submission deadline
+- November 14, 2025 - Start Date
+- November 27, 2025 - Final submission deadline
 
 ## 2. Components
 
@@ -85,8 +89,11 @@ e.g.
 
 ### Meeting Log
 
-- _Insert your meeting log link like Notion or Google Docs_
+- [Meeting Log Link](https://github.com/AIBootcamp14/informationretrieval-ir_ad_1/wiki/Meeting-Log)
 
 ### Reference
 
-- _Insert related reference_
+- [SentenceTransformer](https://pypi.org/project/sentence-transformers/)
+- [Elasticsearch](https://elasticsearch-py.readthedocs.io/)
+- [OpenAI](https://platform.openai.com/docs/api-reference/chat?lang=python)
+- [Upstage](https://console.upstage.ai/docs/capabilities/generate/chat)
