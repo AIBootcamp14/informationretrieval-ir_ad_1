@@ -8,7 +8,7 @@
 
 ## 0. Overview
 ### Environment
-- Python 3.12
+- Python 3.10+
 
 ### Requirements
 - _Write Requirements_
