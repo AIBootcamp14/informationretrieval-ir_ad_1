@@ -32,29 +32,23 @@ openai==1.7.2
 
 ### Directory
 
-- _Insert your directory structure_
-
-e.g.
 ```
 ├── code
-│   ├── jupyter_notebooks
-│   │   └── model_train.ipynb
-│   └── train.py
+│   ├── eda.ipynb
+│   └── rag_with_elasticsearch.py
 ├── docs
-│   ├── pdf
-│   │   └── (Template) [패스트캠퍼스] Upstage AI Lab 1기_그룹 스터디 .pptx
-│   └── paper
-└── input
-    └── data
-        ├── eval
-        └── train
+│   └── Presentation.pdf
+├── data
+│   ├── eval.jsonl
+│   └── documents.jsonl
 ```
 
 ## 3. Data descrption
 
 ### Dataset overview
 
-- _Explain using data_
+- documents : 4,272개
+- eval : 220개 (일반 대화 20개, 멀티턴 대화 20개 포함)
 
 ### EDA
 
@@ -83,7 +77,7 @@ e.g.
 
 ### Presentation
 
-- _Insert your presentaion file(pdf) link_
+- [pdf](https://github.com/AIBootcamp14/informationretrieval-ir_ad_1/blob/main/docs/Presentation.pdf)
 
 ## etc
 
