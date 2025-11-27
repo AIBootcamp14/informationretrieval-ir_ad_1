@@ -8,7 +8,7 @@
 
 ## 0. Overview
 ### Environment
-- _Write Development environment_
+- Python 3.12
 
 ### Requirements
 - _Write Requirements_
@@ -17,12 +17,12 @@
 
 ### Overview
 
-- _Write competition information_
+- 질문과 이전 대화 히스토리를 보고 참고할 문서를 검색엔진에서 추출 후 이를 활용하여 질문에 적합한 대답을 생성하는 태스크입니다.
 
 ### Timeline
 
-- ex) January 10, 2024 - Start Date
-- ex) February 10, 2024 - Final submission deadline
+- ex) November 14, 2025 - Start Date
+- ex) November 27, 2025 - Final submission deadline
 
 ## 2. Components
 
