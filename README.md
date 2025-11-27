@@ -1,7 +1,7 @@
 # Scientific Knowledge Question Answering | 과학 지식 질의 응답 시스템 구축
 ## Team
 
-| ![박패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김패캠](https://avatars.githubusercontent.com/u/156163982?v=4) |
+| <img width="150" height="150" src="https://github.com/user-attachments/assets/cef06034-aec1-40cb-a63a-367b5c341328"/> | <img width="150" height="150" src="https://github.com/user-attachments/assets/52d17b1d-3750-4986-88ce-a04eee9e18c2"/> | <img width="150" height="150" src="https://github.com/user-attachments/assets/2573c4a4-9cd2-4fa6-b419-a54b32dc823f"/> | <img width="150" height="150" src="https://github.com/user-attachments/assets/12f0ae79-f40e-4c13-b17b-469f2b3706a5"/> |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
 |            [김시진](https://github.com/kimsijin33)             |            [임예슬](https://github.com/joy007fun)             |            [김상윤](https://github.com/94KSY)             |            [장윤정](https://github.com/yjjang06)             |
 |                            IR 성능개선<br>프롬프트 엔지니어링                             |                            회의 진행<br>코드 개선                             |                            프롬프트 엔지니어링                             |                            프롬프트 엔지니어링                             |
